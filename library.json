@@ -1,0 +1,25 @@
+{
+  "name": "JRRArduinoUtils",
+  "description": "Utilities for use with Arduino development",
+  "authors":
+  [
+    {
+      "name": "Joseph Rybka",
+      "email": "joe.r.rybka@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/joerybka/JRRArduinoUtils"
+  },
+  "version": "1.0.0",
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": "*",
+  "headers": [
+    "PinController.h",
+    "StableDebouncer.h"
+  ]
+}
